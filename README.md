@@ -3,9 +3,6 @@
 
 I'm currently pursuing my **B.Sc. in Electrical and Computer Engineering** at **(RUET)**, Bangladesh, with a deep passion for **Software Development** and **Competitive Programming**. I enjoy exploring new challenges in software development and constantly pushing my limits in competitive programming.
 
-### 🌟 Fun Fact
-I enjoy solving coding problems more than writing regular assignments! Also, I love exploring new technologies that push the boundaries of my knowledge.
-
 ### 🌱 What I'm Learning
 - **Data Structures and Algorithms** 
 - **Object-Oriented Programming (OOP)** with **Java** and **C++**
@@ -16,6 +13,9 @@ I enjoy solving coding problems more than writing regular assignments! Also, I l
 ### 💬 Ask Me About
 - **OOP concepts** (Java, C++)
 - Problems from **Codeforces**, **CodeChef** and other online judges
+
+### 🌟 Fun Fact
+I enjoy solving coding problems more than writing regular assignments! Also, I love exploring new technologies that push the boundaries of my knowledge.
 
 ### 🛠️ Languages and Tools I Use Regularly
 
@@ -49,9 +49,9 @@ I enjoy solving coding problems more than writing regular assignments! Also, I l
 - **Primary Email:** ahnaf.shahriar2003@gmail.com
 - **Student Email:** 2210007@student.ruet.ac.bd
 
-
 ### 🌐 Connect with Me:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](YOUR_CODEFORCES_LINK)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](YOUR_CODECHEF_LINK)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
