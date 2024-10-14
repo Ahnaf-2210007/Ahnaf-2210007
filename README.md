@@ -67,6 +67,7 @@ I enjoy solving coding problems more than writing regular assignments! Also, I l
 
 ### 📊 My GitHub Stats
 ![Ahnaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahnaf-2210007&show_icons=true&theme=radical)
+![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com?user=Ahnaf-2210007&theme=radical)
 
 
 
