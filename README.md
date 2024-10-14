@@ -3,7 +3,7 @@
 
 I'm currently pursuing my **B.Sc. in Electrical and Computer Engineering** at **(RUET)**, Bangladesh, with a deep passion for **Software Development** and **Competitive Programming**. I enjoy exploring new challenges in software development and constantly pushing my limits in competitive programming.
 
-### 🌱 What I'm Learning
+### 🌱 I'm Learning About
 - **Data Structures and Algorithms** 
 - **Object-Oriented Programming (OOP)** with **Java** and **C++**
 - **Programming Languages:** C, C++, Java, JavaScript
@@ -17,7 +17,7 @@ I'm currently pursuing my **B.Sc. in Electrical and Computer Engineering** at **
 ### 🌟 Fun Fact
 I enjoy solving coding problems more than writing regular assignments! Also, I love exploring new technologies that push the boundaries of my knowledge.
 
-### 🛠️ Languages and Tools I Use Regularly
+### 🛠️ Languages and Tools 
 
 #### Programming Languages:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -52,7 +52,7 @@ I enjoy solving coding problems more than writing regular assignments! Also, I l
 ### 🌐 Connect with Me:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_LINK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahnaf-shahriar-1779b1275/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](YOUR_CODEFORCES_LINK)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ahnaf0002003)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](YOUR_CODECHEF_LINK)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](YOUR_LEETCODE_LINK)
