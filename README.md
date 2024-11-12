@@ -1,6 +1,5 @@
 
-#     Hi there, I'm Ahnaf Shahriar 👋                 ![Profile views](https://komarev.com/ghpvc/?username=Ahnaf-2210007&color=green)
-
+#     Hi there, I'm Ahnaf Shahriar 👋                
 I'm currently pursuing my **B.Sc. in Electrical and Computer Engineering** at **(RUET)**, Bangladesh, with a deep passion for **Software Development** and **Competitive Programming**. I enjoy exploring new challenges in software development and constantly pushing my limits in competitive programming.
 
 ### 🌱 I'm Learning About
